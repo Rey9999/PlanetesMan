@@ -1,0 +1,124 @@
+$ history
+    1  pwd
+    2  cd..
+    3  cd ..
+    4  pwd
+    5  pwd
+    6  ls
+    7  cd home
+    8  cd Users
+    9  cd C
+   10  ls
+   11  cd /c/users/Rey
+   12  ls
+   13  ls .
+   14  ls -a
+   15  ls Images
+   16  ls ./Images
+   17  ls /home
+   18  ls /pwd
+   19  pwd
+   20  ls /c/Users
+   21  cd
+   22  cd ..
+   23  ls
+   24  cd / Public/
+   25  cd / Public /
+   26  cd Public /
+   27  cd '/c/Users/8808197C/Desktop/Téléchargements - Raccourci.lnk'
+   28  cd / c/Users/8808197C/Desktop/Téléchargements
+   29  pwd
+   30  ls
+   31  cd ~/Téléchargements
+   32  ls
+   33  pwd
+   34  cd c/downloads
+   35  ls
+   36  cd downloads
+   37  ls
+   38  pwd
+   39  cd ..
+   40  cd music
+   41  ls
+   42  cd ..
+   43  pwd
+   44  c users
+   45  c Users
+   46  c desktop
+   47  cd users
+   48  cd desktop
+   49  ls
+   50  pwd
+   51  cd ..
+   52  pwd
+   53  mkdir
+   54  mkdir quests
+   55  mkdir -p quests/shell/vegetables quests/shell/fruits
+   56  mkdir quests/shell/remove-me quests/shell/delete-me
+   57  ls quests/shell
+   58  rmdir quests/shell/remove-me quests/shell/delete-me
+   59  cd ~/quests/shell
+   60  touch apple
+   61  touch apricot
+   62  touch carrot parsnip cauliflower courgette
+   63  ls
+   64  ls -l~/.bashrc
+   65  ls -l ~/.bashrc
+   66  ls -l ~/.bashrc
+   67  touch ~/.bashrc
+   68  ls -l ~/.bashrc
+   69  ls
+   70  ls -l
+   71  cp apple banana
+   72  cp apple fruits/orange
+   73  ls ; ls fruits
+   74  cp ap* banana fruits/
+   75  ls fruits
+   76  cp -R fruits copy-of-fruits
+   77  cp -R fruits copy-of-fruits /tmp/
+   78  ls
+   79  find
+   80  rm ap*banana
+   81  rm ap* banana
+   82  find
+   83  rm -r copy-of-fruits
+   84  find
+   85  cp ap* banana fruits/
+   86  ls fruits
+   87  cp ap* banana fruits/
+   88  cp banana fruits/
+   89  cp banana
+   90  mv ca* parsnip courgette vegetables/
+   91  pwd
+   92  mv fruits/orange fruits/grapefruit
+   93  mv vegetables /courgette fruits/kiwi
+   94  mv vegetables/courgette fruits/kiwi
+   95  brew install curl unzip
+   96  curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+   97  unzip planets.zip
+   98  mkdir -p- planets/real planets/fitctional planets/inhabited
+   99  mkdir -p planets/real planets/fictional planets/inhabited
+  100  ls
+  101  find
+  102  mkdir -p planets/real/terrestrial planets/real/gas-giants planets/real/dwarf-planets
+  103  find
+  104  mv jupiter mars mercury neptune pluto saturn uranus venus real/
+  105  mv jupiter mars mercury neptune pluto saturn uranus venus planets/real
+  106  mv jupiter.jpeg mars.jpeg mercury.jpeg neptune.jpeg pluto.jpeg saturn.jpeg uranus.jpeg venus.jpeg planets/real
+  107  find
+  108  mv planets/jupiter.jpeg planets/mars.jpeg planets/mercury.jpeg planets/neptune.jpeg planets/pluto.jpeg planets/saturn.jpeg planets/uranus.jpeg planets/venus.jpeg planets/real
+  109  find
+  110  mv planets/arrakis.jpeg planets/coruscant.jpeg planets/cybertron.jpeg planets/fictive
+  111  mv planets/arrakis.jpeg planets/coruscant.jpeg planets/cybertron.jpeg planets/fictional
+  112  mv mv planets/earth.jpeg planets/real.jpeg planets/real
+  113  mv planets/earth.jpeg planets/real.jpeg planets/real
+  114  mv planets/earth.jpeg planets/real
+  115  find
+  116  cp -R planets/fictional/arrakis.jpeg planets/fictional/coruscant.jpeg planets/fictional/cybertron.jpeg /planets/inhabited
+  117  cp -R planets/fictional/arrakis.jpeg planets/fictional/coruscant.jpeg planets/fictional/cybertron.jpeg /planets/inhabited/
+  118  cp -R planets/fictional/arrakis.jpeg planets/fictional/coruscant.jpeg planets/fictional/cybertron.jpeg planets/inhabited/
+  119  cp -R planets/real/earth.jpeg planets/inhabited/
+  120  find
+  121  rm planets/real/pluto.jpeg
+  122  find
+  123  history
